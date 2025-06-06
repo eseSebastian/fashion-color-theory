@@ -1,0 +1,27 @@
+{
+  "app": {
+    "title": "Fashion Color Theory",
+    "description": "Find perfect color combinations for your outfit"
+  },
+  "colorPicker": {
+    "label": "Choose your base color",
+    "predefinedColors": {
+      "red": "Red",
+      "blue": "Blue", 
+      "green": "Green",
+      "yellow": "Yellow",
+      "purple": "Purple",
+      "orange": "Orange"
+    }
+  },
+  "schemeSelector": {
+    "complementary": "Complementary",
+    "analogous": "Analogous",
+    "triadic": "Triadic",
+    "tetradic": "Tetradic",
+    "monochromatic": "Monochromatic"
+  },
+  "colorResult": {
+    "copiedToClipboard": "Color copied to clipboard"
+  }
+}

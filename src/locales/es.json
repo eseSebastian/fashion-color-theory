@@ -1,0 +1,27 @@
+{
+  "app": {
+    "title": "Teoría del Color de Moda",
+    "description": "Encuentra combinaciones de colores perfectas para tu outfit"
+  },
+  "colorPicker": {
+    "label": "Elige tu color base",
+    "predefinedColors": {
+      "red": "Rojo",
+      "blue": "Azul",
+      "green": "Verde",
+      "yellow": "Amarillo",
+      "purple": "Púrpura",
+      "orange": "Naranja"
+    }
+  },
+  "schemeSelector": {
+    "complementary": "Complementario",
+    "analogous": "Análogo",
+    "triadic": "Triádico",
+    "tetradic": "Tetrádico",
+    "monochromatic": "Monocromático"
+  },
+  "colorResult": {
+    "copiedToClipboard": "Color copiado al portapapeles"
+  }
+}
